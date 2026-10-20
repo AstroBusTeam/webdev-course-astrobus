@@ -61,9 +61,9 @@ body {
 }
 ```
 
-**[2:41 – 2:55 | Pantalla: Cambiar white por lightyellow y mostrar el resultado]**
+**[2:41 – 2:55 | Pantalla: Cambiar white por yellow y mostrar el resultado]**
 
-Veamos qué pasa si cambio esa línea. Borro la palabra white, que significa blanco en inglés, y escribo lightyellow, que significa amarillo claro. ¡Mira esto! La página cambió de color al instante. ¿Notaste que no toqué el contenido? Solo cambié el estilo. Eso es exactamente lo que hace el CSS, y eso es lo que vas a hacer tú ahora mismo.
+Veamos qué pasa si cambio esa línea. Borro la palabra white, que significa blanco en inglés, y escribo yellow, que significa amarillo. ¡Mira esto! La página cambió de color al instante. ¿Notaste que no toqué el contenido? Solo cambié el estilo. Eso es exactamente lo que hace el CSS, y eso es lo que vas a hacer tú ahora mismo.
 
 ```css
 body {
