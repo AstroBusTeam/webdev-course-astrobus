@@ -1,0 +1,12 @@
+/* Hay 3 errores en este CSS. ¿Puedes encontrarlos? */
+body {
+  background-color: lightblue
+  color: darkblue;
+}
+
+h1 {
+  colour: red;
+}
+
+p {
+  font-size: 18px;
