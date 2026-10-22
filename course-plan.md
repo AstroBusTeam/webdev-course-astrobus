@@ -20,7 +20,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Secuencia de la lección
 
-### Lección 1: ¿Qué es el desarrollo web? (3:46 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (5:10 minutos)
 
 
 - **Descripción**: Descubre de qué están hechos los sitios web y por qué HTML y CSS son sus componentes básicos.
