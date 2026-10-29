@@ -92,7 +92,7 @@ Cierra primero la etiqueta que abriste último.
 <p>Mi sitio favorito: <a href="https://developer.mozilla.org/es/" target="_blank">MDN Web Docs</a></p>
 ```
 
-**[6:30 – 7:30 | Pantalla: Pausa para practicar 1]**
+**[4:59 – 5:53 | Pantalla: Pausa para practicar 1]**
 
 Es tu turno de construir el contenido de tu propio perfil. Abre el enlace de la descripción, donde encontrarás el proyecto inicial con los comentarios de los pasos. Sigue los cinco pasos con tu propia información. Primero, tu nombre en un título h1. Segundo, una imagen con su texto alt.
 
