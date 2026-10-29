@@ -49,7 +49,7 @@ Tú decides cómo se presenta tu página al mundo.
 <h1>Hola, soy Alex</h1>
 ```
 
-**[3:30 – 4:30 | Pantalla: Agregar la imagen con `alt`]**
+**[2:45 – 3:30 | Pantalla: Agregar la imagen con `alt`]**
 
 Paso dos: la foto. Debajo del título, escribo la etiqueta img, con el atributo src, y entre comillas la dirección de una imagen. Para esta práctica usaremos una imagen de ejemplo, y tú puedes usar otra que te guste, siempre que sea una dirección de internet.
 
