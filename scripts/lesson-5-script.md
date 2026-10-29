@@ -159,7 +159,7 @@ Sexto, text-align con el valor center, para centrar el texto. Y por último, la 
 }
 ```
 
-**[11:30 – 12:30 | Pantalla: Agregar estilos de `h1`, `img` y `a`]**
+**[9:22 – 10:10 | Pantalla: Agregar estilos de `h1`, `img` y `a`]**
 
 Solo nos faltan unos detalles. Primero, el título. Con el selector h1, cambio el color a un azul oscuro. Segundo, la imagen. Con el selector img, uso border-radius con el valor cincuenta por ciento. Esto redondea tanto la imagen que se convierte en un círculo perfecto, ideal para una foto de perfil.
 
