@@ -123,7 +123,7 @@ body {
 }
 ```
 
-**[9:00 – 10:00 | Pantalla: Envolver el contenido en `<div class="tarjeta">`]**
+**[7:06 – 7:58 | Pantalla: Envolver el contenido en `<div class="tarjeta">`]**
 
 Ahora viene una idea nueva y muy útil. Queremos que todo el contenido esté dentro de una tarjeta, como una cajita blanca con borde. Para eso, necesitamos agrupar todos los elementos. Y lo hacemos con la etiqueta div, que es una caja sin ningún significado especial, solo sirve para agrupar cosas.
 
