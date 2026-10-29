@@ -80,7 +80,7 @@ Ese orden es muy importante.
 </ul>
 ```
 
-**[5:30 – 6:30 | Pantalla: Agregar el enlace]**
+**[4:21 – 4:58 | Pantalla: Agregar el enlace]**
 
 Y el último paso del contenido: el enlace a mi sitio favorito. Escribo un párrafo con el texto: Mi sitio favorito, dos puntos. Y dentro del párrafo, abro la etiqueta a, con el atributo href, y entre comillas, la dirección de una página web. Escribo el texto del enlace: MDN Web Docs.
 
