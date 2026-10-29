@@ -61,7 +61,7 @@ Para esta práctica, usa una imagen de ejemplo.
 <img src="https://placehold.co/200x200" alt="Foto de perfil">
 ```
 
-**[4:30 – 5:30 | Pantalla: Agregar párrafo, `h2` y lista]**
+**[3:31 – 4:20 | Pantalla: Agregar párrafo, `h2` y lista]**
 
 Pasos tres y cuatro. Ahora escribo un párrafo con la etiqueta p, contando algo sobre mí: Tengo catorce años y me encanta crear cosas nuevas. Después, un subtítulo con la etiqueta h2, que diga: Mis pasatiempos. Y debajo, una lista con las etiquetas ul y li.
 
