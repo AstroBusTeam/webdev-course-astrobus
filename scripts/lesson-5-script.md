@@ -23,7 +23,7 @@ Pues, ¿sabes qué? En esta lección vamos a construirla juntos, paso a paso, us
 
 No necesitas saber nada más que lo que ya viste en este curso. ¿Estás listo? ¡Empecemos!
 
-**[1:00 – 2:00 | Pantalla: Boceto en papel o en pantalla de la página: nombre, foto, descripción, lista, enlace]**
+**[0:47 – 1:31 | Pantalla: Boceto en papel o en pantalla de la página: nombre, foto, descripción, lista, enlace]**
 
 Antes de escribir una sola línea de código, los programadores siempre hacen algo muy importante: planifican. Y lo más fácil es hacer un boceto, es decir, un dibujo sencillo, con lápiz y papel. Mira el mío. Arriba, voy a poner mi nombre, como título. Debajo, una foto en un círculo.
 
