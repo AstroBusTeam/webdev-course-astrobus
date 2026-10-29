@@ -106,7 +106,7 @@ NRC 8074
 - 
 - 
 - 
-- 
+- Martinez Ramos, Bryan Felix (U202316246)
 - Pillaca Gonzales, Andy Saúl (U202418823)
 
 **Fecha de entrega**: [12/11/2026]
