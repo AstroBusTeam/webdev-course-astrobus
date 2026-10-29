@@ -31,7 +31,7 @@ Luego, un párrafo corto contando algo sobre mí. Después, una lista con mis pa
 
 Te recomiendo que hagas tu propio boceto antes de seguir.
 
-**[2:00 – 3:00 | Pantalla: Abrir el proyecto inicial en el editor en línea]**
+**[1:32 – 2:16 | Pantalla: Abrir el proyecto inicial en el editor en línea]**
 
 Ahora abramos nuestro proyecto en CodePen, el mismo editor que venimos usando. Tenemos tres paneles: el de HTML, el de CSS y el de JS. Hoy solo usaremos los dos primeros, porque el de JS es para JavaScript, que verás más adelante. En el panel de HTML va el contenido, y en el de CSS va el estilo.
 
