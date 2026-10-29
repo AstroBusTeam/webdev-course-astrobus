@@ -200,7 +200,7 @@ Antes de terminar, quiero que sepas qué hacer si algo no funciona, porque a tod
 
 ¿Las llaves están abiertas y cerradas? ¿Escribiste bien los nombres de las propiedades? Y cuarto, recuerda que en el CSS, el selector de una clase lleva un punto delante, pero en el HTML no lleva punto. Con esta lista, vas a poder resolver casi cualquier problema.
 
-**[14:15 – 15:00 | Pantalla: Mostrar cómo guardar o compartir el proyecto]**
+**[11:40 – 12:20 | Pantalla: Mostrar cómo guardar o compartir el proyecto]**
 
 ¡Terminaste tu página de perfil! Ahora quiero que la guardes y la compartas. En CodePen, crea una cuenta gratuita si quieres guardar tu trabajo, y usa el botón Save. Después, copia el enlace de la barra del navegador. Envíaselo a tu familia, a tus amigos, o súbelo al formulario que está en la descripción de este video.
 
