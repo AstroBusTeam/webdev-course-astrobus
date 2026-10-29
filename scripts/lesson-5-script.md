@@ -186,7 +186,7 @@ a {
 }
 ```
 
-**[12:30 – 13:30 | Pantalla: Pausa para practicar 2]**
+**[10:11 – 11:00 | Pantalla: Pausa para practicar 2]**
 
 Ahora vas a darle estilo a tu perfil. Abre el panel de CSS. Primero, escribe la regla del body, con un color de fondo, una fuente y un poco de padding. Segundo, agrupa todo tu contenido dentro de un div con la clase tarjeta, y escribe la regla punto tarjeta, con fondo, borde, esquinas redondeadas, ancho máximo y margin cero auto para centrarla.
 
