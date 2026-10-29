@@ -194,7 +194,7 @@ Tercero, dale color a tu título y haz tu foto redonda, con border-radius al cin
 
 Pausa el video y practica ahora. Tómate todo el tiempo que necesites.
 
-**[13:30 – 14:15 | Pantalla: Probar y corregir un error a propósito]**
+**[11:01 – 11:39 | Pantalla: Probar y corregir un error a propósito]**
 
 Antes de terminar, quiero que sepas qué hacer si algo no funciona, porque a todos nos pasa. Primero, no te desanimes: los errores son normales. Segundo, revisa que todas las etiquetas estén cerradas, tanto dentro del div como fuera de él. Tercero, mira el CSS: ¿cada línea termina con punto y coma?
 
