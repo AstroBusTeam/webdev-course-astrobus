@@ -1,4 +1,4 @@
-# Script — Lección 5: Crear una página web sencilla (15 min)
+# Script — Lección 5: Crear una página web sencilla (12 min 21 seg)
 
 ## Objetivo de la lección
 Combinar HTML y CSS para construir una página de perfil personal, de forma ordenada y paso a paso.

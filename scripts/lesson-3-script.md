@@ -1,4 +1,4 @@
-# Script — Lección 3: Añadir más elementos HTML (8 min)
+# Script — Lección 3: Añadir más elementos HTML (6 min 58 seg)
 
 ## Objetivo de la lección
 Usar encabezados, listas, imágenes y enlaces para completar una página.

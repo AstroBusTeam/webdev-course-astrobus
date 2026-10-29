@@ -1,4 +1,4 @@
-# Script — Lección 6: Consejos y próximos pasos (10 min)
+# Script — Lección 6: Consejos y próximos pasos (8 min 19 seg)
 
 ## Objetivo de la lección
 Identificar y corregir errores comunes, conocer buenas prácticas y saber dónde seguir aprendiendo.

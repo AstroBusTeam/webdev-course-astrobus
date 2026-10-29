@@ -1,4 +1,4 @@
-# Script — Lección 2: Introducción a HTML (8 min)
+# Script — Lección 2: Introducción a HTML (8 min 2 seg)
 
 ## Objetivo de la lección
 Reconocer etiquetas, elementos y atributos, y escribir la estructura básica de una página HTML.

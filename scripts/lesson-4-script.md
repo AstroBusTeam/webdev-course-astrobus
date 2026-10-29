@@ -1,4 +1,4 @@
-# Script — Lección 4: Introducción a CSS (12 min)
+# Script — Lección 4: Introducción a CSS (9 min 49 seg)
 
 ## Objetivo de la lección
 Escribir reglas CSS con selector, propiedad y valor para cambiar colores, fuentes, bordes y la alineación del texto.

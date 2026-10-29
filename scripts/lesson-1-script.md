@@ -1,4 +1,4 @@
-# Script — Lección 1: ¿Qué es el desarrollo web? (5:10 min)
+# Script — Lección 1: ¿Qué es el desarrollo web? (5:11 min)
 
 ## Objetivo de la lección
 Entender de qué está hecho un sitio web y distinguir qué hace HTML y qué hace CSS.
@@ -83,7 +83,7 @@ Si terminas rápido, te dejo un reto: cambia también el texto del título. Borr
 
 Pausa el video y practica ahora.
 
-**[4:42 – 5:10 | Pantalla: Resumen: HTML = contenido, CSS = estilo]**
+**[4:42 – 5:11 | Pantalla: Resumen: HTML = contenido, CSS = estilo]**
 
 ¡Muy bien! Terminamos la primera lección. Hoy aprendiste que un sitio web está hecho de dos piezas principales: el HTML, que pone el contenido y la estructura, y el CSS, que pone el estilo y el diseño. También usaste un editor en línea y cambiaste el color de una página real.
 
