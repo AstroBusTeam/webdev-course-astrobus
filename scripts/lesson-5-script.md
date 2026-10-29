@@ -100,7 +100,7 @@ Tercero, un párrafo contando algo sobre ti. Cuarto, una lista con tus pasatiemp
 
 Pausa el video y practica ahora. Aquí te espero.
 
-**[7:30 – 8:00 | Pantalla: Mostrar la página sin estilo]**
+**[5:54 – 6:17 | Pantalla: Mostrar la página sin estilo]**
 
 Bienvenido de nuevo. Ya tenemos todo el contenido de la página, pero fíjate cómo se ve: todo está pegado a la izquierda, con letras negras sobre fondo blanco, y sin ningún adorno. Es hora de darle estilo con CSS. ¡Vamos a convertirla en una página muy bonita!
 
