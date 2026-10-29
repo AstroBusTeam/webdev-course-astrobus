@@ -15,7 +15,7 @@ Al terminar esta lección, el estudiante tiene su propia página de perfil dentr
 
 ## Guion
 
-**[0:00 – 1:00 | Pantalla: Título y la página de perfil terminada]**
+**[0:00 – 0:46 | Pantalla: Título y la página de perfil terminada]**
 
 ¡Hola! Llegó el momento más emocionante del curso. Mira esta página que tengo aquí. Es una página de perfil personal: tiene un nombre, una foto, un texto que cuenta algo sobre la persona, una lista de pasatiempos y un enlace. Está dentro de una tarjeta con un borde de color, y se ve muy bien.
 
