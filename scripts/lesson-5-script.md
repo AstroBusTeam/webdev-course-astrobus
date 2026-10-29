@@ -137,7 +137,7 @@ Para eso usamos una clase. Una clase es un nombre que le pones a un elemento, co
 </div>
 ```
 
-**[10:00 – 11:30 | Pantalla: Escribir `.tarjeta { ... }`]**
+**[7:59 – 9:21 | Pantalla: Escribir `.tarjeta { ... }`]**
 
 Vamos al CSS. Para darle estilo a una clase, el selector se escribe con un punto, seguido del nombre de la clase. Escribo punto tarjeta, y abro las llaves. Ahora, las propiedades. Primero, background-color, con el valor white, que significa blanco, para que la tarjeta se destaque del fondo azul.
 
