@@ -106,7 +106,7 @@ Bienvenido de nuevo. Ya tenemos todo el contenido de la página, pero fíjate c�
 
 Y recuerda que no tenemos que tocar nada del contenido: todo el cambio se hace en el archivo de estilo.
 
-**[8:00 – 9:00 | Pantalla: Escribir los estilos del `body`]**
+**[6:18 – 7:05 | Pantalla: Escribir los estilos del `body`]**
 
 Pasamos al panel de CSS. Empezamos por el body, que afecta a toda la página. Escribo el selector body, abro las llaves, y escribo tres propiedades. La primera, background-color, con un azul muy claro. La segunda, font-family, con Arial y sans-serif como opción de respaldo.
 
