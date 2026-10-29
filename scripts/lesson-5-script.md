@@ -39,7 +39,7 @@ Recuerda que CodePen ya prepara por detrás la estructura de la página, con doc
 
 Los comentarios son notas que escribimos para nosotros mismos, y no se ven en la página. ¡Vamos a seguirlos!
 
-**[3:00 – 3:30 | Pantalla: Escribir el `h1`]**
+**[2:17 – 2:44 | Pantalla: Escribir el `h1`]**
 
 Paso uno: el nombre. Dentro del body, abro una etiqueta h1 y escribo un título de bienvenida, por ejemplo: Hola, soy Alex. Aquí tú escribirás tu propio nombre. Cierro la etiqueta h1. ¡Listo! Ya tenemos el título principal de nuestra página. Fíjate que lo escribí con una sola etiqueta h1, igual que aprendimos en la segunda lección.
 
