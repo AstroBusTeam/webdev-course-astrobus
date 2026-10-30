@@ -105,7 +105,7 @@ NRC 8074
 **Integrantes del equipo**: 
 - 
 - 
-- 
+- Alvarado Millan, Boris (U20241B676)
 - Martinez Ramos, Bryan Felix (U202316246)
 - Pillaca Gonzales, Andy Saúl (U202418823)
 
