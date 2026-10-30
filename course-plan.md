@@ -20,7 +20,7 @@ Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a
 
 ## Secuencia de la lección
 
-### Lección 1: ¿Qué es el desarrollo web? (5:11 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (5 min 11 seg)
 
 
 - **Descripción**: Descubre de qué están hechos los sitios web y por qué HTML y CSS son sus componentes básicos.
@@ -29,7 +29,7 @@ Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a
 - **Empieza a explorar**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a156b4-9e2b-7ba2-a119-10b6320f928a](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a156b4-9e2b-7ba2-a119-10b6320f928a)
 - **Práctica**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cbf-6140-765b-ae16-1b075133647a](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cbf-6140-765b-ae16-1b075133647a)
 
-### Lección 2: Introducción a HTML (8:02 minutos)
+### Lección 2: Introducción a HTML (8 min 2 seg)
 
 - **Descripción**: Conoce las etiquetas, los elementos y los atributos, y crea tu primera página.
 - **Enlace**: [https://www.youtube.com/watch?v=7uNskr1UNRU&list=PLWHaGXnSkWtk&index=3](https://www.youtube.com/watch?v=7uNskr1UNRU&list=PLWHaGXnSkWtk&index=2)
@@ -37,7 +37,7 @@ Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a
 - **Práctica**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15a00-3cf8-7c15-bcca-3797c36d8af3](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15a00-3cf8-7c15-bcca-3797c36d8af3) 👈 **¡No necesitas registrarte!**
 - **Solución**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc1-fa3e-75f9-9b65-3ab800e12907](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc1-fa3e-75f9-9b65-3ab800e12907)
 
-### Lección 3: Añadir más elementos HTML (6:58 minutos)
+### Lección 3: Añadir más elementos HTML (6 min 58 seg)
 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea más completa.
 - **Enlace**: [https://www.youtube.com/watch?v=riow8mIvrmU&list=PLWHaGXnSkWtk&index=3](https://www.youtube.com/watch?v=riow8mIvrmU&list=PLWHaGXnSkWtk&index=3)
@@ -45,7 +45,7 @@ Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a
 - **Práctica**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15b45-d0c5-7ae5-bdbb-211550fa814a](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15b45-d0c5-7ae5-bdbb-211550fa814a) 👈 **¡Comienza al instante!**
 - **Solución**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc3-525e-764e-86a3-f0300e411cc4](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc3-525e-764e-86a3-f0300e411cc4)
 
-### Lección 4: Introducción a CSS (9:49 minutos)
+### Lección 4: Introducción a CSS (9 min 49 seg)
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes, bordes y centrado de contenido.
 - **Enlace**: [https://www.youtube.com/watch?v=zGOhubW7apg&list=PLWHaGXnSkWtk&index=4](https://www.youtube.com/watch?v=zGOhubW7apg&list=PLWHaGXnSkWtk&index=4)
@@ -53,7 +53,7 @@ Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a
 - **Práctica**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15b47-1067-764b-acc4-b6718aa70744](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15b47-1067-764b-acc4-b6718aa70744) 👈 **¡No es necesario registrarse!**
 - **Solución**: [https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc4-707f-7b68-8178-c26abadbea9d](https://codepen.io/editor/Andy-Pillaca-Gonzales/pen/01a15cc4-707f-7b68-8178-c26abadbea9d)
 
-### Lección 5: Crear una página web sencilla (12:21 minutos)
+### Lección 5: Crear una página web sencilla (12 min 21 seg)
 
 - **Descripción**: Combina HTML y CSS para crear tu página de perfil personal paso a paso.
 - **Enlace**: [https://www.youtube.com/watch?v=byTkyjDfN48&list=PLWHaGXnSkWtk&index=5](https://www.youtube.com/watch?v=byTkyjDfN48&list=PLWHaGXnSkWtk&index=5)

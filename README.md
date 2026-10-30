@@ -52,12 +52,12 @@ La diferencia entre ambos es justo lo que se aprende en esa lección. Por ejempl
 
 | # | Lección | Duración | Qué se aprende |
 |---|---|---|---|
-| 1 | ¿Qué es el desarrollo web? | 4 min | De qué está hecho un sitio web: HTML y CSS |
-| 2 | Introducción a HTML | 8 min | Etiquetas, elementos, atributos y estructura básica |
-| 3 | Añadir más elementos HTML | 8 min | Encabezados, listas, imágenes y enlaces |
-| 4 | Introducción a CSS | 12 min | Selectores, colores, fuentes, bordes y centrado |
-| 5 | Crear una página web sencilla | 15 min | Una página de perfil personal completa |
-| 6 | Consejos y próximos pasos | 10 min | Errores comunes, buenos hábitos y cómo seguir aprendiendo |
+| 1 | ¿Qué es el desarrollo web? | 5 min 11 seg | De qué está hecho un sitio web: HTML y CSS |
+| 2 | Introducción a HTML | 8 min 2 seg | Etiquetas, elementos, atributos y estructura básica |
+| 3 | Añadir más elementos HTML | 6 min 58 seg | Encabezados, listas, imágenes y enlaces |
+| 4 | Introducción a CSS | 9 min 49 seg | Selectores, colores, fuentes, bordes y centrado |
+| 5 | Crear una página web sencilla | 12 min 21 seg | Una página de perfil personal completa |
+| 6 | Consejos y próximos pasos | 8 min 19 seg | Errores comunes, buenos hábitos y cómo seguir aprendiendo |
 
 ---
 
