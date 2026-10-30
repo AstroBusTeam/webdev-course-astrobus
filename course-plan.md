@@ -100,11 +100,11 @@ NRC 8074
 
 **Nombre del equipo**: AstroBus
 
-**Líder del equipo**: Justo Yauricasa, Alexander Paolo (U20191C054) 
+**Líder del equipo**: Justo Yauricasa, Alexander Paolo  
 
 **Integrantes del equipo**: 
 - 
-- 
+- Justo Yauricasa, Alexander Paolo (U20191C054)
 - Alvarado Millan, Boris (U20241B676)
 - Martinez Ramos, Bryan Felix (U202316246)
 - Pillaca Gonzales, Andy Saúl (U202418823)
