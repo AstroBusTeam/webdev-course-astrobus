@@ -108,7 +108,7 @@ NRC 8074
 **Líder del equipo**: Justo Yauricasa, Alexander Paolo  
 
 **Integrantes del equipo**: 
-- 
+- Nawrocki Loureiro, Ian Andre (U202312135)
 - Justo Yauricasa, Alexander Paolo (U20191C054)
 - Alvarado Millan, Boris (U20241B676)
 - Martinez Ramos, Bryan Felix (U202316246)
