@@ -1,10 +1,10 @@
 # Script — Lección 3: Añadir más elementos HTML (6 min 58 seg)
 
 ## Objetivo de la lección
-Usar encabezados, listas, imágenes y enlaces para completar una página.
+Estructura la página incorporando títulos, viñetas, recursos visuales y enlaces.
 
 ## Progreso en la página
-Al terminar esta lección, la página incorpora un subtítulo, una lista de tres elementos, una imagen con texto alternativo y un enlace.
+Al concluir la lección, habrás añadido a la página un subtítulo, una lista de tres puntos, un hipervínculo y una imagen con su respectivo texto alternativo.
 
 ## Recursos de la lección
 - **Editor en línea:** CodePen
@@ -15,7 +15,7 @@ Al terminar esta lección, la página incorpora un subtítulo, una lista de tres
 
 ## Guion
 
-**[0:00 – 0:30 | Pantalla: Título y la página de la lección 2]**
+**[0:00 – 0:30 | Pantalla: Título y la página de la lección 3]**
 
 ¡Bienvenido de nuevo! En la lección anterior creaste tu primera página, con un título y un párrafo. Hoy vamos a hacerla mucho más completa. Aprenderás a organizar tu contenido con encabezados, a escribir listas, a mostrar imágenes y a crear enlaces para ir a otras páginas.
 
