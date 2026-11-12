@@ -2,12 +2,13 @@
 
 ## Resumen del Curso
 
-Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
+Este curso de 50 minutos con 40 segundos introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. 
 
-**Duración total**: 50 min 40 s
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+**¡No requiere descargas!** Solo abre tu navegador web. <br>
+**Duración total**: 50 min 40 s <br>
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación <br>
+**Prerrequisitos**: Ninguno <br>
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) <br>
 
 **📂 Repositorio de código fuente**: [https://github.com/AstroBusTeam/webdev-course-astrobus](https://github.com/AstroBusTeam/webdev-course-astrobus)
 
